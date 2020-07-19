@@ -1,5 +1,6 @@
 [package]
 name = "none-array"
+description = "a very cursed way to create an array of None values"
 version = "1.0.0"
 authors = ["EllenNyan <supbscripter@gmail.com>"]
 edition = "2018"
