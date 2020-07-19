@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = ["EllenNyan <supbscripter@gmail.com>"]
 edition = "2018"
 license = "MIT"
-readme = "README.md"
+readme = "../README.md"
 repository = "https://github.com/EllenNyan/none-array"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
