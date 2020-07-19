@@ -1,7 +1,7 @@
 [package]
 name = "none-array"
 description = "a very cursed way to create an array of None values"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["EllenNyan <supbscripter@gmail.com>"]
 edition = "2018"
 license = "MIT"
